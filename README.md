@@ -17,7 +17,7 @@ This data set included different bicycles that came from Trek's website. The JSO
 
 
 # What I learned
-s
+
 
 # What's next for Countdown Timer
 
