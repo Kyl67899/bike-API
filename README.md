@@ -1,26 +1,8 @@
-# How it can be used
-This data set included different bicycles that came from Trek's website. The JSON data file was created as an API to allow users to fetch the data. You can fork the data set and use it in your projects.
+# Bike API
 
-# Inspiration
-
-
-# What it does
+If you are a developer looking for a bicycle API, then you can fork the repo and add, remove, create, or delete the data that are created.
 
 
-# How I built it
+# Author
 
-
-# Challenges I ran into
-
-
-# Accomplishments that I'm proud of
-
-
-# What I learned
-
-
-# What's next for Countdown Timer
-
-
-# Built With
-
+@Kyl67899
