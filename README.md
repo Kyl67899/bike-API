@@ -9,6 +9,9 @@ https://lunar-astronaut-205658.postman.co/workspace/My-Workspace~52dda099-49cc-4
 ## Recent Update
 ### Updated the bicycles based from trek website.
 
+### NOT SELLING BICYCLES
+### Used for developer use only
+
 # Author
 
 @Kyl67899
