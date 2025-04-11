@@ -10,7 +10,7 @@ export const bikes = [
     type: "mountain",
     originalPrice: 15999.99,
     salePrice: 9899,
-    rating: 5,
+    rating: 4.5,
   },
   {
     id: 2,
