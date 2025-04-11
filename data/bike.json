@@ -8,7 +8,7 @@ export const bikes = [
     details:
       "Rail 9.9 is our best long-travel electric mountain bike. You get an extra-beefy carbon frame, unbelievably smooth RockShox suspension, SRAM's best wireless electronic drivetrain, and a powerful Bosch smart system Performance Line CX motor with an extra-long range battery and the new Mini Remote. The new System Controller display sits almost flush with the top tube for a sleek look wherever you roll that stays out of the way when you're riding hard.",
     type: "mountain",
-    originalPrice: 13999.99,
+    originalPrice: 15999.99,
     salePrice: 9899,
     rating: 5,
   },
@@ -20,7 +20,7 @@ export const bikes = [
     details:
       "Rail 9.9 is our best long-travel electric mountain bike. You get an extra-beefy carbon frame, unbelievably smooth RockShox suspension, super-precise Shimano XTR drivetrain, and a powerful Bosch Performance Line CX motor with an extra-long range battery and smart system, plus the new Mini Remote and System Controller display that sits flush with the top tube and pairs with the eBike Flow app to give you activity tracking, navigation, and Bluetooth connectivity.",
     type: "mountain",
-    originalPrice: 13499.99,
+    originalPrice: 12499.99,
     salePrice: 9000,
     rating: 4.5,
   },
@@ -32,7 +32,7 @@ export const bikes = [
     details:
       "Madone SLR 7 AXS is the ultimate race machine. An 800 Series OCLV Carbon frame with exclusive IsoFlow technology adds an aerodynamic advantage, cuts weight, and smooths the road ahead. It's built from the ground up with cherry-picked components for a smooth and light ride, like SRAM's Force AXS D2 wireless electronic 12-speed drivetrain and carbon wheels with a deep rim for aerodynamic gains.",
     type: "Road",
-    originalPrice: 13199.99,
+    originalPrice: 14199.99,
     salePrice: 10999,
     rating: 5,
   },
@@ -44,7 +44,7 @@ export const bikes = [
     details:
       "Domane+ SLR 9 is a category-redefining, high-speed assist carbon e-road bike that doesn't look, fit, or feel like a standard e-bike. It's built on an 800 Series OCLV Carbon frame that hides a compact and refined motor to elevate your ride with natural-feeling assist. The motor quietly blends in with the elements, all but disappearing under you on peaceful solo outings and club rides, so you stay more connected to the experience while enjoying extra power for crushing climbs and long, epic adventures. Adding the cherry on top, it's equipped with the industry's most premium parts, like SRAM's best wireless electronic drivetrain for road and gravel alike — RED XPLR eTap AXS.",
     type: "Road",
-    originalPrice: 13199.99,
+    originalPrice: 12199.99,
     salePrice: 12500,
     rating: 5,
   },
@@ -56,7 +56,7 @@ export const bikes = [
     details:
       "Supercaliber SLR 9.9 X0 AXS is an ultralight XC mountain bike that's built with the top components for race day. Its SLR Mountain Carbon frame is as light as it is meticulous, with a high modulus layup that gives you all the stiffness you crave and none of the weight. XC courses get rowdier every year, so it's equipped with a 110mm fork and 80mm of IsoStrut rear suspension to smooth your roll without dropping pedaling efficiency. It's all topped off with carbon wheels, a carbon cockpit, and SRAM's wireless direct-mount X0 transmission.",
     type: "Mountain",
-    originalPrice: 11699.99,
+    originalPrice: 11499.99,
     salePrice: 5750,
     rating: 5,
   },
@@ -68,7 +68,7 @@ export const bikes = [
     details:
       "Rail 9.9 is our best long-travel electric mountain bike. You get an extra-beefy carbon frame, unbelievably smooth RockShox suspension, SRAM's best wireless electronic drivetrain, and a powerful Bosch smart system Performance Line CX motor with an extra-long range battery and the new Mini Remote. The new System Controller display sits almost flush with the top tube for a sleek look wherever you roll that stays out of the way when you're riding hard.",
     type: "Mountain",
-    originalPrice: 11299.99,
+    originalPrice: 12299.99,
     salePrice: 9600,
     rating: 4,
   },
@@ -80,8 +80,8 @@ export const bikes = [
     details:
       "Fuel EXe 9.8 GX AXS takes an evolved approach to e-mountain biking with a revolutionary motor that packs space-age technology in a tiny but mighty package. It's built on a carbon fiber chassis that's light, stiff, and nimble for a lively and playful trail feel. And to keep a good thing going, it's topped off with carbon wheels, the wireless shifting technology of a SRAM GX AXS transmission, and the silky-smooth suspension of a RockShox Lyrik Select+ fork and SuperDeluxe Select+ rear suspension.",
     type: "Mountain",
-    originalPrice: 9999.99,
-    salePrice: 5999.99,
+    originalPrice: 9899.99,
+    salePrice: 6999.99,
     rating: 4.5,
   },
   {
@@ -92,8 +92,8 @@ export const bikes = [
     details:
       "Madone SLR 7 AXS is the ultimate race machine. An 800 Series OCLV Carbon frame with exclusive IsoFlow technology adds an aerodynamic advantage, cuts weight, and smooths the road ahead. It's built from the ground up with cherry-picked components for a smooth and light ride, like SRAM's Force AXS D2 wireless electronic 12-speed drivetrain and carbon wheels with a deep rim for aerodynamic gains.",
     type: "Road",
-    originalPrice: 9699.99,
-    salePrice: 7500,
+    originalPrice: 10699.99,
+    salePrice: 7200,
     rating: 4.5,
   },
   {
@@ -104,8 +104,8 @@ export const bikes = [
     details:
       "Fuel EXe 9.8 XT takes an evolved approach to e-mountain bikes with a revolutionary motor that packs space-age technology into a tiny but mighty package. It's built on an OCLV Mountain Carbon chassis that's light, stiff, and nimble for a lively and playful trail feel. And to keep a good thing going, it's topped off with carbon wheels, Shimano's clean-shifting and ultra reliable XT drivetrain, and the silky-smooth performance of a RockShox Lyrik Select+ fork and SuperDeluxe Select+ rear suspension.",
     type: "Mountain",
-    originalPrice: 9299.99,
-    salePrice: 5000,
+    originalPrice: 8499.99,
+    salePrice: 6800,
     rating: 5,
   },
   {
@@ -116,8 +116,8 @@ export const bikes = [
     details:
       "Rail 9.8 is a long-travel carbon e-MTB that rips like our beefiest trail rigs and powers you right back up the mountain. You get upgraded everything, including the frame for maximum fun on the gnarliest runs. You also get Bosch's latest tech with the smart system Performance Line CX that has a longer-range 750Wh battery and cool features that take your ride to the next level like activity tracking, navigation, and Bluetooth connectivity. The new System Controller sits almost flush for a sleek look, and Mini Remote is discreet and intuitive.",
     type: "Mountain",
-    originalPrice: 8999.99,
-    salePrice: 6500,
+    originalPrice: 7899.99,
+    salePrice: 5700,
     rating: 4.5,
   },
   {
@@ -128,7 +128,7 @@ export const bikes = [
     details:
       "Fuel EX 9.9 combines a light and nimble carbon frame with Shimano's best drivetrain and top-shelf suspension for a ride that's ready to rally wherever you point it. It's dripping with high-end upgrades like buttery-smooth Kashima coat, quick-engaging carbon wheels, a super-slick one-piece bar and stem, and handy multi tool hidden in the steerer tube.",
     type: "Mountain",
-    originalPrice: 8749.99,
+    originalPrice: 8549.99,
     salePrice: 6500,
     rating: 4,
   },
@@ -393,8 +393,8 @@ export const bikes = [
     url: "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
     details: "Madone SLR 7 AXS is the ultimate race machine. An 800 Series OCLV Carbon frame with exclusive IsoFlow technology adds an aerodynamic advantage, cuts weight, and smooths the road ahead. It's built from the ground up with cherry-picked components for a smooth and light ride, like SRAM's Force AXS D2 wireless electronic 12-speed drivetrain and carbon wheels with a deep rim for aerodynamic gains.",
     type: "Mountain",
-    originalPrice: 3299.99,
-    salePrice: null,
+    originalPrice: 4599.99,
+    salePrice: 2400,
     rating: 5,
   },
   {
@@ -450,7 +450,7 @@ export const bikes = [
     type: "Mountain",
     originalPrice: 3299.99,
     salePrice: null,
-    rating: 5,
+    rating: 4.5,
   },
   {
     id: 42,
@@ -483,7 +483,7 @@ export const bikes = [
     type: "Mountain",
     originalPrice: 3299.99,
     salePrice: null,
-    rating: 5,
+    rating: 4.5,
   },
   {
     id: 45,
@@ -493,7 +493,7 @@ export const bikes = [
     details: "",
     type: "Mountain",
     originalPrice: 3299.99,
-    salePrice: null,
+    salePrice: 2300,
     rating: 5,
   },
   {
@@ -527,7 +527,7 @@ export const bikes = [
     type: "Mountain",
     originalPrice: 3299.99,
     salePrice: 2500,
-    rating: 3.5,
+    rating: 4.5,
   },
   {
     id: 49,
@@ -548,7 +548,7 @@ export const bikes = [
     details: "Madone SLR 7 AXS is the ultimate race machine. An 800 Series OCLV Carbon frame with exclusive IsoFlow technology adds an aerodynamic advantage, cuts weight, and smooths the road ahead. It's built from the ground up with cherry-picked components for a smooth and light ride, like SRAM's Force AXS D2 wireless electronic 12-speed drivetrain and carbon wheels with a deep rim for aerodynamic gains.",
     type: "Mountain",
     originalPrice: 3299.99,
-    salePrice: null,
+    salePrice: 2400,
     rating: 5,
   },
   {
