@@ -1,6 +1,6 @@
 // Bicycle Data from trek
 export const bikes = 
-  [
+[
     {
       "id": 1,
       "title": "Fuel EXe 9.9 XX AXS T-Type",
