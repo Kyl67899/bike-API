@@ -65,8 +65,8 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/FuelEXe98GXAXSUS-24-41656-B-Portrait",
       "details": "Fuel EXe 9.8 GX AXS takes an evolved approach to e-mountain biking with a revolutionary motor that packs space-age technology in a tiny but mighty package. It's built on a carbon fiber chassis that's light, stiff, and nimble for a lively and playful trail feel. And to keep a good thing going, it's topped off with carbon wheels, the wireless shifting technology of a SRAM GX AXS transmission, and the silky-smooth suspension of a RockShox Lyrik Select+ fork and SuperDeluxe Select+ rear suspension.",
       "type": "Mountain",
-      "originalPrice": 9999.99,
-      "salePrice": 5999.99,
+      "originalPrice": 7999.99,
+      "salePrice": 3999.99,
       "rating": 4.5
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/FuelEXe98XTUS-24-41571-C-Portrait",
       "details": "Fuel EXe 9.8 XT takes an evolved approach to e-mountain bikes with a revolutionary motor that packs space-age technology into a tiny but mighty package. It's built on an OCLV Mountain Carbon chassis that's light, stiff, and nimble for a lively and playful trail feel. And to keep a good thing going, it's topped off with carbon wheels, Shimano's clean-shifting and ultra reliable XT drivetrain, and the silky-smooth performance of a RockShox Lyrik Select+ fork and SuperDeluxe Select+ rear suspension.",
       "type": "Mountain",
-      "originalPrice": 9299.99,
+      "originalPrice": 8299.99,
       "salePrice": null,
       "rating": 5
     },
@@ -96,7 +96,7 @@
       "details": "Rail 9.8 is a long-travel carbon e-MTB that rips like our beefiest trail rigs and powers you right back up the mountain. You get upgraded everything, including the frame for maximum fun on the gnarliest runs. You also get Bosch's latest tech with the smart system Performance Line CX that has a longer-range 750Wh battery and cool features that take your ride to the next level like activity tracking, navigation, and Bluetooth connectivity. The new System Controller sits almost flush for a sleek look, and Mini Remote is discreet and intuitive.",
       "type": "Mountain",
       "originalPrice": 8999.99,
-      "salePrice": 6500,
+      "salePrice": 3500,
       "rating": 4.5
     },
     {
@@ -106,7 +106,7 @@
       "details": "Fuel EX 9.9 combines a light and nimble carbon frame with Shimano's best drivetrain and top-shelf suspension for a ride that's ready to rally wherever you point it. It's dripping with high-end upgrades like buttery-smooth Kashima coat, quick-engaging carbon wheels, a super-slick one-piece bar and stem, and handy multi tool hidden in the steerer tube.",
       "type": "Mountain",
       "originalPrice": 8749.99,
-      "salePrice": 6500,
+      "salePrice": 2500,
       "rating": 4
     },
     {
@@ -116,7 +116,7 @@
       "details": "",
       "type": "Mountain",
       "originalPrice": 7999.99,
-      "salePrice": 5999.99,
+      "salePrice": 3999.99,
       "rating": 5
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/TopFuel99XOAXS-24-41650-E-Portrait",
       "details": "",
       "type": "Mountain",
-      "originalPrice": 7999.99,
+      "originalPrice": 10999.99,
       "salePrice": null,
       "rating": 5
     },
@@ -135,8 +135,8 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Cruiser3iStepOver_23_35600_B_Portrait",
       "details": "",
       "type": "Cruiser",
-      "originalPrice": 649.99,
-      "salePrice": 559,
+      "originalPrice": 449.99,
+      "salePrice": 359,
       "rating": 4.5
     },
     {
@@ -205,7 +205,7 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Remedy8275XT_22_35063_A_Portrait",
       "details": "",
       "type": "Mountain",
-      "originalPrice": 4129.99,
+      "originalPrice": 2129.99,
       "salePrice": null,
       "rating": 4.5
     },
@@ -293,7 +293,7 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
       "details": "",
       "type": "Mountain",
-      "originalPrice": 3299.99,
+      "originalPrice": 5299.99,
       "salePrice": null,
       "rating": null
     },
@@ -354,7 +354,6 @@
     },
     {
       "id": 37,
-      "item": "New",
       "title": "Supercaliber 9.6 Gen 1",
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
       "details": "",
@@ -458,7 +457,7 @@
       "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
       "details": "",
       "type": "Mountain",
-      "originalPrice": 3299.99,
+      "originalPrice": 2299.99,
       "salePrice": null,
       "rating": null
     },
@@ -613,6 +612,61 @@
       "details": "",
       "type": "Mountain",
       "originalPrice": 3299.99,
+      "salePrice": null,
+      "rating": null
+    }
+    {
+      "id": 61,
+      "item": "New",
+      "title": "Supercaliber 9.6 Gen 1",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
+      "details": "",
+      "type": "Mountain",
+      "originalPrice": 3299.99,
+      "salePrice": null,
+      "rating": null
+    }
+    {
+      "id": 62,
+      "item": "New",
+      "title": "Supercaliber 9.6 Gen 5",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
+      "details": "",
+      "type": "Mountain",
+      "originalPrice": 4299.99,
+      "salePrice": null,
+      "rating": null
+    }
+    {
+      "id": 63,
+      "item": "New",
+      "title": "Supercaliber 9.6 Gen 2",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
+      "details": "",
+      "type": "Mountain",
+      "originalPrice": 3299.99,
+      "salePrice": null,
+      "rating": null
+    }
+    {
+      "id": 64,
+      "item": "New",
+      "title": "Supercaliber 9.6 Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
+      "details": "",
+      "type": "Road",
+      "originalPrice": 2299.99,
+      "salePrice": null,
+      "rating": null
+    }
+    {
+      "id": 65,
+      "item": "New",
+      "title": "Supercaliber 9.6 Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Supercaliber96_22_35151_B_Portrait",
+      "details": "",
+      "type": "Road",
+      "originalPrice": 1299.99,
       "salePrice": null,
       "rating": null
     }
