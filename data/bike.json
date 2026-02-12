@@ -1,5 +1,5 @@
 // Bicycle Data from trek
-export const bikes = 
+const bikes = 
 [
     {
       "id": 1,
@@ -616,7 +616,7 @@ export const bikes =
       "originalPrice": 3299.99,
       "salePrice": null,
       "rating": null
-    }
+    },
     {
       "id": 61,
       "item": "New",
@@ -627,7 +627,7 @@ export const bikes =
       "originalPrice": 3299.99,
       "salePrice": null,
       "rating": null
-    }
+    },
     {
       "id": 62,
       "item": "New",
@@ -638,7 +638,7 @@ export const bikes =
       "originalPrice": 4299.99,
       "salePrice": null,
       "rating": null
-    }
+    },
     {
       "id": 63,
       "item": "New",
@@ -649,7 +649,7 @@ export const bikes =
       "originalPrice": 3299.99,
       "salePrice": null,
       "rating": null
-    }
+    },
     {
       "id": 64,
       "item": "New",
@@ -660,7 +660,7 @@ export const bikes =
       "originalPrice": 2299.99,
       "salePrice": null,
       "rating": null
-    }
+    },
     {
       "id": 65,
       "item": "New",
@@ -851,6 +851,325 @@ export const bikes =
       "originalPrice": 8999.99,
       "salePrice": null,
       "rating": 5
+    },
+    {
+      "id": 89,
+      "title": "Trek Powerfly 7 FS",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Powerfly7FSUS-24-41920-B-Portrait",
+      "details": "Powerfly 7 FS is a full-suspension electric mountain bike for adventurous riders. Features a TQ HPR50 motor with 630Wh battery, 150mm travel RockShox suspension, and Shimano XT drivetrain. The nimble handling and pedal-assist power make it perfect for trail exploration and technical terrain.",
+      "type": "eBike",
+      "originalPrice": 5499.99,
+      "salePrice": 4299.99,
+      "rating": 4.5
+    },
+    {
+      "id": 90,
+      "title": "Trek Remedy 9.8 Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Remedy98GEN3US-24-41496-B-Portrait",
+      "details": "Remedy 9.8 Gen 3 is a trail-focused enduro bike with 160mm travel and aggressive geometry. Built with OCLV Mountain Carbon frame, RockShox Lyrik suspension, and Shimano XT drivetrain. Perfect for riders tackling steep terrain and technical descents with confidence and control.",
+      "type": "Mountain",
+      "originalPrice": 3899.99,
+      "salePrice": 3199.99,
+      "rating": 4.5
+    },
+    {
+      "id": 91,
+      "title": "Trek 520 Series Steel Road Bike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/520SeriesUS-24-41802-B-Portrait",
+      "details": "Trek 520 Series is a classic steel touring road bike designed for adventure travelers. Built with chromoly steel tubing for durability and comfort, it features lugged construction and eyelets for rack and fender mounting. The proven geometry handles heavy loads and provides smooth, forgiving rides on any terrain.",
+      "type": "Road",
+      "originalPrice": 1699.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 92,
+      "title": "Trek Stache 5 Plus",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Stache5PlusUS-24-41445-B-Portrait",
+      "details": "Stache 5 Plus is a hardtail mountain bike with 2.8-inch Plus tires for extreme traction and float. The OCLV Mountain Aluminum frame and 100mm suspension fork make it perfect for technical terrain, snow, and sand. Wide tires plus small frame geometry create an incredibly playful and stable ride.",
+      "type": "Mountain",
+      "originalPrice": 999.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 93,
+      "title": "Trek Wahoo 2 Kids",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Wahoo2KidsUS-24-41360-B-Portrait",
+      "details": "Wahoo 2 is a fun and durable kids mountain bike with training wheels options. Features a lightweight aluminum frame, 16-inch wheels, and single-speed drivetrain. Perfect for young riders developing confidence and skills on the trails.",
+      "type": "Kids",
+      "originalPrice": 199.99,
+      "salePrice": null,
+      "rating": 4.5
+    },
+    {
+      "id": 94,
+      "title": "Trek 1.2 Road Bike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/1.2RoadUS-24-41750-B-Portrait",
+      "details": "Trek 1.2 is an entry-level road bike perfect for new cyclists. Lightweight aluminum frame, drop bars, and Shimano Claris drivetrain make it ideal for fitness riding and short distance events. Responsive handling and value pricing make it an excellent choice for beginners.",
+      "type": "Road",
+      "originalPrice": 599.99,
+      "salePrice": null,
+      "rating": 3.5
+    },
+    {
+      "id": 95,
+      "title": "Trek Rail 7 Trail eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Rail7TrailUS-24-41978-B-Portrait",
+      "details": "Rail 7 Trail combines mid-travel e-MTB performance with accessible pricing. Powered by a Bosch motor with 625Wh battery, it features a RockShox fork and Shimano SLX drivetrain. The 130mm travel and playful geometry make it ideal for trail exploring with electric assist.",
+      "type": "eBike",
+      "originalPrice": 4699.99,
+      "salePrice": 3599.99,
+      "rating": 4.5
+    },
+    {
+      "id": 96,
+      "title": "Trek District+ 500Wh Urban eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DistrictPlus500US-24-41820-B-Portrait",
+      "details": "District+ 500Wh is a practical urban commuter e-bike with a relaxed geometry and smooth-rolling tires. The integrated Bosch motor provides pedal assistance for tackling hills and headwinds with ease. Fender and rack compatibility makes it perfect for daily commuting with cargo.",
+      "type": "eBike",
+      "originalPrice": 2699.99,
+      "salePrice": 1999.99,
+      "rating": 4.5
+    },
+    {
+      "id": 97,
+      "title": "Trek Skitch 7 Gen 2 Youth Bike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Skitch7GEN2US-24-41358-B-Portrait",
+      "details": "Skitch 7 Gen 2 is a hybrid youth bike for riders transitioning to adult bikes. The lightweight aluminum frame, 7-speed drivetrain, and flat bars provide comfort and control. Perfect for young riders building confidence on trails and streets.",
+      "type": "Kids",
+      "originalPrice": 329.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 98,
+      "title": "Trek Domane SL 5",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DomaneSL5US-24-41785-B-Portrait",
+      "details": "Domane SL 5 is a lightweight aluminum road bike with carbon fork for smooth, long rides. The IsoSpeed technology dampens road vibrations for all-day comfort. Shimano Sora drivetrain and reliable braking make it ideal for endurance and recreational cycling.",
+      "type": "Road",
+      "originalPrice": 1299.99,
+      "salePrice": 999.99,
+      "rating": 4.5
+    },
+    {
+      "id": 99,
+      "title": "Trek Crockett 5 Gravel",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Crockett5GravelUS-24-41840-B-Portrait",
+      "details": "Crockett 5 is a versatile aluminum gravel bike for mixed-surface adventures. The relaxed geometry, wide tire clearance, and fender mounts make it perfect for gravel roads and trails. Shimano drivetrain and hydraulic disc brakes deliver reliable performance in all conditions.",
+      "type": "Gravel",
+      "originalPrice": 1499.99,
+      "salePrice": 1199.99,
+      "rating": 4.5
+    },
+    {
+      "id": 100,
+      "title": "Trek E-Caliber 10 Gen 1 XC eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/E-Caliber10GEN1US-24-41976-B-Portrait",
+      "details": "E-Caliber 10 Gen 1 is an elite hardtail XC e-bike powered by a TQ motor with 630Wh battery. Built with carbon frame and premium components for race-day performance. The lightweight design and efficient power delivery make it ideal for competitive XC riders seeking electric assistance.",
+      "type": "eBike",
+      "originalPrice": 6999.99,
+      "salePrice": 5799.99,
+      "rating": 5
+    },
+    {
+      "id": 101,
+      "title": "Trek Farley 5 Fat Bike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Farley5US-24-41421-B-Portrait",
+      "details": "Farley 5 is an aluminum fat bike designed for snow, sand, and extreme conditions. The 4.5-inch tires provide exceptional traction and float. Perfect for winter riding and beach adventures with responsive handling and rugged durability.",
+      "type": "Mountain",
+      "originalPrice": 1199.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 102,
+      "title": "Trek Hybrid+ LowStep Urban eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/HybridPlusLowUS-24-41825-B-Portrait",
+      "details": "Hybrid+ LowStep combines comfort with electric assist for urban commuting. The step-through frame makes mounting easy, while the Bosch motor with 400Wh battery handles hills effortlessly. Integrated lights and fender mounts enhance practicality.",
+      "type": "eBike",
+      "originalPrice": 2099.99,
+      "salePrice": 1599.99,
+      "rating": 4.5
+    },
+    {
+      "id": 103,
+      "title": "Trek Tandem Cruiser",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/TandemCruiserUS-24-41390-B-Portrait",
+      "details": "Trek Tandem Cruiser is built for two riders with comfort and stability. The extended aluminum frame, dual brakes, and synchronized pedaling create a smooth riding experience. Perfect for cruising and bonding with a partner.",
+      "type": "Hybrid",
+      "originalPrice": 799.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 104,
+      "title": "Trek Verve+ Step-Thru eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/VervePlusStepUS-24-41839-B-Portrait",
+      "details": "Verve+ Step-Thru offers easy mounting with comfortable electric-assisted riding. The Bosch motor provides smooth power for leisure rides and errands. Low step-through geometry makes it accessible for all rider types.",
+      "type": "eBike",
+      "originalPrice": 1899.99,
+      "salePrice": 1499.99,
+      "rating": 4.5
+    },
+    {
+      "id": 105,
+      "title": "Trek 3500 Hardtail",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/3500HardtailUS-24-41442-B-Portrait",
+      "details": "Trek 3500 is a reliable aluminum hardtail for beginners and casual riders. With a 100mm fork and Shimano drivetrain, it offers solid performance on light trails and fitness rides. Great value for the money.",
+      "type": "Mountain",
+      "originalPrice": 449.99,
+      "salePrice": null,
+      "rating": 3.5
+    },
+    {
+      "id": 106,
+      "title": "Trek Lush SL 8 Women's Trail",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/LushSL8WomensUS-24-41505-B-Portrait",
+      "details": "Lush SL 8 is a women-specific trail bike with 150mm travel and responsive geometry. The carbon frame and RockShox suspension provide excellent handling on technical terrain. Designed with women riders in mind for optimal fit and performance.",
+      "type": "Mountain",
+      "originalPrice": 3599.99,
+      "salePrice": 2999.99,
+      "rating": 4.5
+    },
+    {
+      "id": 107,
+      "title": "Trek Silque SL 8 Women's Road",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/SilqueSL8WomensUS-24-41766-B-Portrait",
+      "details": "Silque SL 8 is a women's road racing bike with 800 Series OCLV Carbon frame and geometry optimized for female cyclists. Features SRAM Force AXS drivetrain and carbon wheels for competitive performance.",
+      "type": "Road",
+      "originalPrice": 8499.99,
+      "salePrice": 7299.99,
+      "rating": 5
+    },
+    {
+      "id": 108,
+      "title": "Trek WSD 1 Women's Commuter",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/WSD1CommutUS-24-41395-B-Portrait",
+      "details": "WSD 1 is a women-specific commuter hybrid with step-through frame for easy mounting. The upright geometry and comfortable saddle make it ideal for daily commuting. Fender and rack compatibility adds practicality.",
+      "type": "Hybrid",
+      "originalPrice": 349.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 109,
+      "title": "Trek Madone 9.5 Pro Cycling",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Madone95ProUS-24-41768-B-Portrait",
+      "details": "Madone 9.5 is a top-tier aero road bike with 800 Series OCLV Carbon frame featuring IsoFlow technology. SRAM's finest wireless drivetrain and aerodynamic design make it the ultimate racing machine for serious cyclists.",
+      "type": "Road",
+      "originalPrice": 10999.99,
+      "salePrice": 9299.99,
+      "rating": 5
+    },
+    {
+      "id": 110,
+      "title": "Trek Superfly 9.8 XT XC",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Superfly98XTUS-24-41466-B-Portrait",
+      "details": "Superfly 9.8 XT is a hardtail XC race bike with 100mm suspension and responsive handling. Built with carbon frame and premium components for competitive performance on technical XC courses.",
+      "type": "Mountain",
+      "originalPrice": 3199.99,
+      "salePrice": 2499.99,
+      "rating": 4.5
+    },
+    {
+      "id": 111,
+      "title": "Trek Checkpointi ALR 4 Gravel",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/CheckpointALR4US-24-41843-B-Portrait",
+      "details": "Checkpoint ALR 4 is an aluminum gravel bike with IsoSpeed for vibration damping. Wide tire clearance and relaxed geometry make it perfect for gravel roads and light trails. Great for adventure seekers.",
+      "type": "Gravel",
+      "originalPrice": 2299.99,
+      "salePrice": 1899.99,
+      "rating": 4.5
+    },
+    {
+      "id": 112,
+      "title": "Trek Powerfly FS 5 Gen 2 eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Powerfly5GEN2US-24-41921-B-Portrait",
+      "details": "Powerfly FS 5 Gen 2 is an affordable full-suspension e-MTB with Bosch motor and 630Wh battery. The 150mm travel and playful geometry make trail riding fun and accessible with electric assist.",
+      "type": "eBike",
+      "originalPrice": 4299.99,
+      "salePrice": 3399.99,
+      "rating": 4.5
+    },
+    {
+      "id": 113,
+      "title": "Trek Dual Sport 2 Commuter",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DualSport2US-24-41371-B-Portrait",
+      "details": "Dual Sport 2 is a versatile commuter hybrid with smooth-rolling tires and stable geometry. The aluminum frame and Shimano drivetrain provide reliable performance for daily transportation and casual riding.",
+      "type": "Hybrid",
+      "originalPrice": 299.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 114,
+      "title": "Trek Joyride+ 650b Youth eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Joyride650bUS-24-41933-B-Portrait",
+      "details": "Joyride+ 650b is an electric mountain bike for youth riders. The motor provides pedal assist for easier climbing and longer adventures. Perfect for young riders exploring trails with confidence.",
+      "type": "Kids",
+      "originalPrice": 1599.99,
+      "salePrice": 1299.99,
+      "rating": 4.5
+    },
+    {
+      "id": 115,
+      "title": "Trek Domane C 100 Gravel",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DomaneC100GravelUS-24-41850-B-Portrait",
+      "details": "Domane C 100 is an endurance gravel bike with steel frame for comfort on long rides. The relaxed geometry and compliance features smooth out rough terrain. Perfect for gravel adventures and touring.",
+      "type": "Gravel",
+      "originalPrice": 1899.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 116,
+      "title": "Trek Slash 9.7 Gen 5 Trail",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Slash97GEN5US-24-41495-B-Portrait",
+      "details": "Slash 9.7 Gen 5 is a trail bike with 160mm travel and aggressive geometry. The aluminum frame and quality components deliver excellent value for trail riders. Perfect for rowdy singletrack and technical terrain.",
+      "type": "Mountain",
+      "originalPrice": 1999.99,
+      "salePrice": null,
+      "rating": 4.5
+    },
+    {
+      "id": 117,
+      "title": "Trek Emonda SL 6 Pro Road",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/EmondaSL6ProUS-24-41762-B-Portrait",
+      "details": "Emonda SL 6 Pro is an ultralight climbing road bike weighing just 4.65 lbs. The 800 Series OCLV Carbon frame and premium components make it ideal for mountain climbing and competitive cycling.",
+      "type": "Road",
+      "originalPrice": 6999.99,
+      "salePrice": 5899.99,
+      "rating": 5
+    },
+    {
+      "id": 118,
+      "title": "Trek Precaliber 20 Six Speed Kids",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Precaliber20US-24-41342-B-Portrait",
+      "details": "Precaliber 20 Six Speed is a beginner kids bike with training wheel options. The lightweight aluminum frame and 20-inch wheels are perfect for young riders learning to pedal and balance.",
+      "type": "Kids",
+      "originalPrice": 299.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 119,
+      "title": "Trek Fuel EX 9.9 GX AXS Gen 6",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/FuelEX99GXUS-24-41506-B-Portrait",
+      "details": "Fuel EX 9.9 GX AXS Gen 6 is a full-suspension all-mountain bike with 160mm travel and responsive geometry. The carbon frame and premium components deliver playful handling and confidence on diverse terrain.",
+      "type": "Mountain",
+      "originalPrice": 5299.99,
+      "salePrice": 4199.99,
+      "rating": 4.5
+    },
+    {
+      "id": 120,
+      "title": "Trek SimpleCity Urban Commuter",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/SimpleCity4US-24-41393-B-Portrait",
+      "details": "SimpleCity is an easy-to-use urban commuter with internal hub gearing and maintenance-free design. The smooth-rolling tires and stable geometry make it perfect for city riding and casual cruising.",
+      "type": "Hybrid",
+      "originalPrice": 499.99,
+      "salePrice": null,
+      "rating": 4
     }
 ]
-
