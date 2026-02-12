@@ -671,6 +671,186 @@ export const bikes =
       "originalPrice": 1299.99,
       "salePrice": null,
       "rating": null
+    },
+    {
+      "id": 71,
+      "title": "Slash 9.9 XT Gen 5",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Slash99XTUS-24-41494-B-Portrait",
+      "details": "Slash 9.9 XT is a short-travel trail slayer that combines playful trail handling with reliable stopping power and smooth shifting. Built with a 160mm travel OCLV Mountain Carbon frame and a 150mm fork, it's engineered to handle everything from rowdy singletrack to technical terrain. Spec'd with Shimano's rock-solid XT drivetrain for precise shifting and excellent modulation brake performance.",
+      "type": "Mountain",
+      "originalPrice": 4299.99,
+      "salePrice": 3899.99,
+      "rating": 4.5
+    },
+    {
+      "id": 72,
+      "title": "X-Caliber 8 Gen 4",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/XCaliber8GEN4US-24-41288-B-Portrait",
+      "details": "X-Caliber 8 is a hardtail XC racer with responsive handling and efficient pedaling dynamics. Its OCLV Mountain Carbon frame delivers excellent power transfer, and the hardtail design keeps weight to a minimum. Paired with a 100mm fork and Shimano's XT drivetrain, it's the perfect ride for cross-country adventures and competitive racing.",
+      "type": "Mountain",
+      "originalPrice": 1999.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 73,
+      "title": "Gravel+ 8 eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Gravel8eUS-24-41837-B-Portrait",
+      "details": "Gravel+ 8 is the electric adventure companion for anyone seeking to explore beyond the pavement. Powered by a smooth and responsive Bosch Smart System Performance motor with 500Wh battery, this gravel e-bike lets you tackle long days of mixed-surface riding with ease. The aluminum frame and gravel-ready geometry make it perfect for discovering new routes.",
+      "type": "Gravel",
+      "originalPrice": 3999.99,
+      "salePrice": 2999.99,
+      "rating": 4.5
+    },
+    {
+      "id": 74,
+      "title": "FX 3 Disc",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/FX3DiscUS-24-41373-B-Portrait",
+      "details": "FX 3 Disc is a smooth-rolling hybrid that's engineered for commuting and casual trail riding. Its lightweight aluminum frame and disc brakes provide confident stopping power in all conditions. With flat bars for an upright riding position and Shimano's reliable drivetrain, it's ideal for daily transportation and weekend adventures.",
+      "type": "Hybrid",
+      "originalPrice": 549.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 75,
+      "title": "Émonda SLR 7 AXS Gen 7",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/EmondaSLR7AXSGEN7US-24-41763-B-Portrait",
+      "details": "Émonda SLR 7 AXS is the lightest bike Trek makes, designed to be ridden uphill fast. Its 800 Series OCLV Carbon frame tips the scales at just 4.65 lbs, while SRAM's Force AXS D2 wireless drivetrain provides seamless shifting during demanding climbs. Carbon wheels and a premium build complete this climber's dream machine.",
+      "type": "Road",
+      "originalPrice": 9399.99,
+      "salePrice": 8299.99,
+      "rating": 5
+    },
+    {
+      "id": 76,
+      "title": "TopFuel 9.8 GX AXS",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/TopFuel98GXAXSUS-24-41565-B-Portrait",
+      "details": "TopFuel 9.8 GX AXS is a lightweight mountain bike designed for XC racing and fast trail riding. Built with an OCLV Mountain Carbon frame and 110mm travel suspension, it's engineered for efficiency and speed. The SRAM GX AXS wireless drivetrain and RockShox fork deliver smooth performance on technical terrain.",
+      "type": "Mountain",
+      "originalPrice": 4799.99,
+      "salePrice": null,
+      "rating": 4.5
+    },
+    {
+      "id": 77,
+      "title": "Verve+ 2 eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Verve2eUS-24-41838-B-Portrait",
+      "details": "Verve+ 2 is an approachable and comfortable e-bike ideal for casual riders and commuters. Featuring a Bosch eBike System with 400Wh battery, step-through frame design, and upright geometry, it makes longer rides easier and more enjoyable. The disc brakes and wide tires provide stability and control in various conditions.",
+      "type": "Hybrid",
+      "originalPrice": 1999.99,
+      "salePrice": 1699.99,
+      "rating": 4
+    },
+    {
+      "id": 78,
+      "title": "Checkpoint SLR Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/CheckpointSLRGEN3US-24-41898-B-Portrait",
+      "details": "Checkpoint SLR Gen 3 is a premium gravel bike built for adventurers seeking the latest in carbon frame technology. Its 800 Series OCLV Carbon frame integrates IsoStrut rear suspension for a smooth ride over gravel and rough terrain. Wide tire clearance and dropper post compatibility make it versatile for any adventure.",
+      "type": "Gravel",
+      "originalPrice": 4299.99,
+      "salePrice": 3799.99,
+      "rating": 5
+    },
+    {
+      "id": 79,
+      "title": "Marlin 5 Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Marlin5GEN3US-24-41345-B-Portrait",
+      "details": "Marlin 5 is an entry-level trail bike that delivers real mountain biking performance. Built with an OCLV Mountain Aluminum frame, 100mm suspension fork, and Shimano drivetrain, it's perfect for riders getting into the sport. The 29-inch wheels and aggressive geometry make it responsive and fun on technical singletrack.",
+      "type": "Mountain",
+      "originalPrice": 569.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 80,
+      "title": "Dual Sport 4 LowStep",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DualSport4LowStepUS-24-41340-B-Portrait",
+      "details": "Dual Sport 4 LowStep is a versatile urban commuter and light trail bike with a comfortable, low-step frame design. The smooth-rolling tires and stable geometry make it ideal for streets and smooth paths. Shimano's reliable drivetrain and hydraulic disc brakes deliver confidence in all conditions.",
+      "type": "Hybrid",
+      "originalPrice": 449.99,
+      "salePrice": null,
+      "rating": 3.5
+    },
+    {
+      "id": 81,
+      "title": "Procaliber 9.8 GX AXS",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Procaliber98GXAXSUS-24-41460-B-Portrait",
+      "details": "Procaliber 9.8 GX AXS is a competition-grade XC hardtail built for racers who demand the best. Its lightweight OCLV Mountain Carbon frame pairs with a 100mm RockShox fork and SRAM's wireless GX AXS drivetrain. Carbon wheels and premium components make this a podium-ready machine.",
+      "type": "Mountain",
+      "originalPrice": 3699.99,
+      "salePrice": null,
+      "rating": 4.5
+    },
+    {
+      "id": 82,
+      "title": "Domane ALR 5",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DomaneALR5US-24-41783-B-Portrait",
+      "details": "Domane ALR 5 is an aluminum endurance road bike built for long, comfortable rides. Its relaxed geometry and IsoSpeed decoupler technology smooth out road vibrations for all-day comfort. Shimano Sora drivetrain and reliable brakes make it perfect for recreational riding and distance events.",
+      "type": "Road",
+      "originalPrice": 1099.99,
+      "salePrice": 899.99,
+      "rating": 4
+    },
+    {
+      "id": 83,
+      "title": "Beast 29 Hardtail",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Beast29HardtailUS-24-41421-B-Portrait",
+      "details": "Beast 29 is a fun-focused hardtail mountain bike with 100mm travel and aggressive geometry. Built with an OCLV Mountain Aluminum frame and equipped with quality Shimano components, it's ideal for trail riders looking to improve their skills and have a blast doing it.",
+      "type": "Mountain",
+      "originalPrice": 679.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 84,
+      "title": "Precaliber 15 Kids",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Precaliber15KidsUS-24-41341-B-Portrait",
+      "details": "Precaliber 15 is Trek's kids bike with a lightweight aluminum frame and 15-speed drivetrain. Designed specifically for young riders, it features lower step-through geometry and right-sized components for growing cyclists. A stable and durable choice for beginners.",
+      "type": "Kids",
+      "originalPrice": 249.99,
+      "salePrice": null,
+      "rating": 4.5
+    },
+    {
+      "id": 85,
+      "title": "Gravel+ 6 eBike",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Gravel6eUS-24-41836-B-Portrait",
+      "details": "Gravel+ 6 eBike combines adventure capability with electric assist for long gravel expeditions. Powered by a Bosch Performance Line motor with 500Wh battery, it features a relaxed geometry and wide tire clearance. Perfect for exploring beyond the pavement with confidence and ease.",
+      "type": "Gravel",
+      "originalPrice": 3499.99,
+      "salePrice": 2699.99,
+      "rating": 4.5
+    },
+    {
+      "id": 86,
+      "title": "FX 2 Disc",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/FX2DiscUS-24-41374-B-Portrait",
+      "details": "FX 2 Disc is an affordable hybrid that doesn't compromise on quality. Its lightweight aluminum frame, hydraulic disc brakes, and comfortable geometry make it ideal for commuters and recreational riders. Proven components deliver reliable shifting and smooth rides.",
+      "type": "Hybrid",
+      "originalPrice": 349.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 87,
+      "title": "Roscoe 8 Gen 3",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/Roscoe8GEN3US-24-41502-B-Portrait",
+      "details": "Roscoe 8 is a hardtail trail bike that delivers playful handling and excellent value. Built with an OCLV Mountain Aluminum frame and 100mm suspension fork, it's equipped with dependable Shimano XT drivetrain. Perfect for trail riders seeking responsive performance and versatile capability.",
+      "type": "Mountain",
+      "originalPrice": 799.99,
+      "salePrice": null,
+      "rating": 4
+    },
+    {
+      "id": 88,
+      "title": "Domane+ SLR 7 AXS",
+      "url": "https://media.trekbikes.com/image/upload/f_auto,fl_progressive:semi,q_auto,w_1920,h_1440,c_pad/DomainSLR7AXSUS-24-41796-B-Portrait",
+      "details": "Domane+ SLR 7 AXS is a premium electric road bike for endurance riders seeking a smooth, assisted experience. Built with an 800 Series OCLV Carbon frame that conceals the motor, it delivers a natural riding feel with SRAM RED XPLR AXS wireless drivetrain and integrated electric assist for conquering long distances.",
+      "type": "Road",
+      "originalPrice": 8999.99,
+      "salePrice": null,
+      "rating": 5
     }
 ]
 
