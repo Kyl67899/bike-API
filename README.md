@@ -6,6 +6,8 @@ A comprehensive, open-source bicycle database featuring real Trek bikes with det
 
 **NOT SELLING BICYCLES** - This is a developer resource only. Data is based on official Trek bike specifications.
 
+Follow my blog post on dev.to[https://dev.to/kyl67899/bikeapi-1i7o](https://dev.to/kyl67899/bikeapi-1i7o) and Hashnode.com[]() 
+
 # Last updated:
 Feb. 12, 2026
 
@@ -221,7 +223,7 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/Kyl6
 - Added 18 new authentic Trek bike models (IDs 71-88)
 - Enhanced documentation for developer integration
 - Expanded bike categories to include Kids and expanded eBike selection
-- Updated pricing and specifications from official Trek store
+- Updated pricing and specifications from the official Trek store
 
 ---
 
