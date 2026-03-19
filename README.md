@@ -6,7 +6,7 @@ A comprehensive, open-source bicycle database featuring real Trek bikes with det
 
 **NOT SELLING BICYCLES** - This is a developer resource only. Data is based on official Trek bike specifications.
 
-Follow my blog post on dev.to[https://dev.to/kyl67899/bikeapi-1i7o](https://dev.to/kyl67899/bikeapi-1i7o) and Hashnode.com[https://hashnode.com/@csdevfe](https://hashnode.com/@csdevfe) 
+Follow my blog post on [dev.to](https://dev.to/kyl67899/bikeapi-1i7o) and [Hashnode.com](https://hashnode.com/@csdevfe) 
 
 # Last updated:
 Feb. 12, 2026
