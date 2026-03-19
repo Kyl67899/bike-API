@@ -228,3 +228,7 @@ Found a bug or have a suggestion? Please [open an issue](https://github.com/Kyl6
 ---
 
 **Happy coding! 🚴‍♂️**
+
+Fork, custom code, and create. 
+
+Join the [Discord]("https://discord.gg/ZwQXnHWA") server.
