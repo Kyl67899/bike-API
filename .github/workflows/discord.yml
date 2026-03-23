@@ -1,0 +1,22 @@
+name: Security Alerts (Discord)
+
+on:
+  workflow_run:
+    workflows: ["Dependency Audit & Auto Fix"]
+    types:
+      - completed
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send Discord alert if failed
+        if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+        run: |
+          curl -H "Content-Type: application/json" \
+          -X POST \
+          -d '{
+            "content": "🚨 Dependency/Vulnerability issue detected in '"${{ github.repository }}"'"
+          }' \
+          ${{ secrets.DISCORD_WEBHOOK_URL }}
