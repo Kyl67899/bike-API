@@ -9,7 +9,7 @@ A comprehensive, open-source bicycle database featuring real Trek bikes with det
 Follow my blog post on [dev.to](https://dev.to/kyl67899/bikeapi-1i7o) and [Hashnode.com](https://hashnode.com/@csdevfe) 
 
 # Last updated:
-Sept. 1, 2026
+Oct 26, 2026
 
 ---
 
